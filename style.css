@@ -13,8 +13,6 @@ body {
     padding: 0 15px;
 }
 
-/* banner */
-
 .main-banner {
     background: url("images/background.jpg");
     height: 90vh;
@@ -112,8 +110,6 @@ body {
     background-color: #202b30;
     border: 2px solid #fff
 }
-
-/* navigation */
 
 .main-navigation {
     position: fixed;
@@ -223,8 +219,6 @@ body {
     }
 }
 
-/* section-main-offer */
-
 .main-offer {
     display: flex;
     justify-content: center;
@@ -299,8 +293,6 @@ body {
     background-color: #E0E0E0;
     margin-top: 30px;
 }
-
-/* section-main-services */
 
 .main-services__information {
     display: flex;
